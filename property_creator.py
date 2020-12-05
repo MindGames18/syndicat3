@@ -48,16 +48,17 @@ for item in colour_list:
         # Temp dict to push into the list
         x = dict()
 
-        x[constants.PROP_NAME] = input(f"Enter {i} {item} property name")
-        x[constants.PROP_PRICE] = int(input(f"Enter {i} {item} property cost"))
-        x[constants.PROP_MORTGAGE] = int(input(f"Enter {i} {item} property mortgage"))
-        x[constants.RENT_ONE_HOUSE] = int(input(f"Enter {i} {item} rent with 1 house"))
-        x[constants.RENT_TWO_HOUSE] = int(input(f"Enter {i} {item} rent with 2 house"))
-        x[constants.RENT_THREE_HOUSE] = int(input(f"Enter {i} {item} rent with 3 house"))
-        x[constants.RENT_FOUR_HOUSE] = int(input(f"Enter {i} {item} rent with 4 house"))
-        x[constants.RENT_ONE_HOTEL] = int(input(f"Enter {i} {item} rent with 1 hotel"))
-        x[constants.HOUSE_COST] = int(input(f"Enter {i} {item} Cost of  house"))
-        x[constants.HOTEL_COST] = int(input(f"Enter {i} {item} cost of hotel"))
+        x[constants.JSON_PROP_NAME] = input(f"Enter {i} {item} property name")
+        x[constants.JSON_PROP_PRICE] = int(input(f"Enter {i} {item} property cost"))
+        x[constants.JSON_PROP_MORTGAGE] = int(input(f"Enter {i} {item} property mortgage"))
+        x[constants.JSON_RENT_SITE_ONLY] = int(input(f"Enter {i} {item} site only rent"))
+        x[constants.JSON_RENT_ONE_HOUSE] = int(input(f"Enter {i} {item} rent with 1 house"))
+        x[constants.JSON_RENT_TWO_HOUSE] = int(input(f"Enter {i} {item} rent with 2 house"))
+        x[constants.JSON_RENT_THREE_HOUSE] = int(input(f"Enter {i} {item} rent with 3 house"))
+        x[constants.JSON_RENT_FOUR_HOUSE] = int(input(f"Enter {i} {item} rent with 4 house"))
+        x[constants.JSON_RENT_ONE_HOTEL] = int(input(f"Enter {i} {item} rent with 1 hotel"))
+        x[constants.JSON_HOUSE_COST] = int(input(f"Enter {i} {item} Cost of  house"))
+        x[constants.JSON_HOTEL_COST] = int(input(f"Enter {i} {item} cost of hotel"))
 
         default_properties[item].append(x)
 

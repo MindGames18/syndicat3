@@ -1,0 +1,304 @@
+{
+    "Brown": [
+        {
+            "name": "Old Kent Road",
+            "cost": 60,
+            "mortgage": 30,
+            "rent_site": 2,
+            "rent_h1": 10,
+            "rent_h2": 30,
+            "rent_h3": 90,
+            "rent_h4": 160,
+            "rent_hotel": 250,
+            "house_cost": 50,
+            "hotel_cost": 50
+        },
+        {
+            "name": "Whitechapel Road",
+            "cost": 60,
+            "mortgage": 30,
+            "rent_site": 4,
+            "rent_h1": 20,
+            "rent_h2": 60,
+            "rent_h3": 180,
+            "rent_h4": 320,
+            "rent_hotel": 450,
+            "house_cost": 50,
+            "hotel_cost": 50
+        }
+    ],
+    "Cyan": [
+        {
+            "name": "The Angel Islington",
+            "cost": 100,
+            "mortgage": 50,
+            "rent_site": 6,
+            "rent_h1": 30,
+            "rent_h2": 90,
+            "rent_h3": 270,
+            "rent_h4": 400,
+            "rent_hotel": 550,
+            "house_cost": 50,
+            "hotel_cost": 50
+        },
+        {
+            "name": "Euston Road",
+            "cost": 100,
+            "mortgage": 50,
+            "rent_site": 6,
+            "rent_h1": 30,
+            "rent_h2": 90,
+            "rent_h3": 270,
+            "rent_h4": 400,
+            "rent_hotel": 550,
+            "house_cost": 50,
+            "hotel_cost": 50
+        },
+        {
+            "name": "Pentovville Road",
+            "cost": 120,
+            "mortgage": 60,
+            "rent_site": 8,
+            "rent_h1": 40,
+            "rent_h2": 100,
+            "rent_h3": 300,
+            "rent_h4": 450,
+            "rent_hotel": 600,
+            "house_cost": 50,
+            "hotel_cost": 50
+        }
+    ],
+    "Pink": [
+        {
+            "name": "Pall Mall",
+            "cost": 140,
+            "mortgage": 70,
+            "rent_site": 10,
+            "rent_h1": 50,
+            "rent_h2": 150,
+            "rent_h3": 450,
+            "rent_h4": 625,
+            "rent_hotel": 750,
+            "house_cost": 100,
+            "hotel_cost": 100
+        },
+        {
+            "name": "Whitehall",
+            "cost": 140,
+            "mortgage": 70,
+            "rent_site": 10,
+            "rent_h1": 50,
+            "rent_h2": 150,
+            "rent_h3": 450,
+            "rent_h4": 625,
+            "rent_hotel": 750,
+            "house_cost": 100,
+            "hotel_cost": 100
+        },
+        {
+            "name": "Northumberedland Avenue",
+            "cost": 160,
+            "mortgage": 80,
+            "rent_site": 12,
+            "rent_h1": 60,
+            "rent_h2": 180,
+            "rent_h3": 500,
+            "rent_h4": 700,
+            "rent_hotel": 900,
+            "house_cost": 100,
+            "hotel_cost": 100
+        }
+    ],
+    "Orange": [
+        {
+            "name": "Bow Street",
+            "cost": 180,
+            "mortgage": 90,
+            "rent_site": 14,
+            "rent_h1": 70,
+            "rent_h2": 200,
+            "rent_h3": 550,
+            "rent_h4": 750,
+            "rent_hotel": 950,
+            "house_cost": 100,
+            "hotel_cost": 100
+        },
+        {
+            "name": "Marlborough Street",
+            "cost": 180,
+            "mortgage": 90,
+            "rent_site": 14,
+            "rent_h1": 70,
+            "rent_h2": 200,
+            "rent_h3": 550,
+            "rent_h4": 750,
+            "rent_hotel": 950,
+            "house_cost": 100,
+            "hotel_cost": 100
+        },
+        {
+            "name": "Vine Street",
+            "cost": 200,
+            "mortgage": 100,
+            "rent_site": 16,
+            "rent_h1": 80,
+            "rent_h2": 220,
+            "rent_h3": 600,
+            "rent_h4": 800,
+            "rent_hotel": 1000,
+            "house_cost": 100,
+            "hotel_cost": 100
+        }
+    ],
+    "Red": [
+        {
+            "name": "The Strand",
+            "cost": 220,
+            "mortgage": 110,
+            "rent_site": 18,
+            "rent_h1": 90,
+            "rent_h2": 250,
+            "rent_h3": 700,
+            "rent_h4": 875,
+            "rent_hotel": 1050,
+            "house_cost": 150,
+            "hotel_cost": 150
+        },
+        {
+            "name": "Fleet Street",
+            "cost": 220,
+            "mortgage": 110,
+            "rent_site": 18,
+            "rent_h1": 90,
+            "rent_h2": 250,
+            "rent_h3": 700,
+            "rent_h4": 875,
+            "rent_hotel": 1050,
+            "house_cost": 150,
+            "hotel_cost": 150
+        },
+        {
+            "name": "Trafalgar Square",
+            "cost": 240,
+            "mortgage": 120,
+            "rent_site": 20,
+            "rent_h1": 100,
+            "rent_h2": 300,
+            "rent_h3": 750,
+            "rent_h4": 925,
+            "rent_hotel": 1100,
+            "house_cost": 150,
+            "hotel_cost": 150
+        }
+    ],
+    "Yellow": [
+        {
+            "name": "Leicester Square",
+            "cost": 260,
+            "mortgage": 130,
+            "rent_site": 22,
+            "rent_h1": 110,
+            "rent_h2": 330,
+            "rent_h3": 800,
+            "rent_h4": 975,
+            "rent_hotel": 1150,
+            "house_cost": 150,
+            "hotel_cost": 150
+        },
+        {
+            "name": "Coventry Street",
+            "cost": 260,
+            "mortgage": 130,
+            "rent_site": 22,
+            "rent_h1": 110,
+            "rent_h2": 330,
+            "rent_h3": 800,
+            "rent_h4": 975,
+            "rent_hotel": 1150,
+            "house_cost": 150,
+            "hotel_cost": 150
+        },
+        {
+            "name": "Piccadilly",
+            "cost": 280,
+            "mortgage": 140,
+            "rent_site": 22,
+            "rent_h1": 120,
+            "rent_h2": 360,
+            "rent_h3": 850,
+            "rent_h4": 1025,
+            "rent_hotel": 1200,
+            "house_cost": 150,
+            "hotel_cost": 150
+        }
+    ],
+    "Green": [
+        {
+            "name": "Regent Street",
+            "cost": 300,
+            "mortgage": 150,
+            "rent_site": 26,
+            "rent_h1": 130,
+            "rent_h2": 390,
+            "rent_h3": 900,
+            "rent_h4": 1100,
+            "rent_hotel": 1275,
+            "house_cost": 200,
+            "hotel_cost": 200
+        },
+        {
+            "name": "Oxford Street",
+            "cost": 300,
+            "mortgage": 150,
+            "rent_site": 26,
+            "rent_h1": 130,
+            "rent_h2": 390,
+            "rent_h3": 900,
+            "rent_h4": 1100,
+            "rent_hotel": 1275,
+            "house_cost": 200,
+            "hotel_cost": 200
+        },
+        {
+            "name": "Bond Street",
+            "cost": 320,
+            "mortgage": 160,
+            "rent_site": 28,
+            "rent_h1": 150,
+            "rent_h2": 450,
+            "rent_h3": 1000,
+            "rent_h4": 1200,
+            "rent_hotel": 1400,
+            "house_cost": 200,
+            "hotel_cost": 200
+        }
+    ],
+    "Blue": [
+        {
+            "name": "Park Lane",
+            "cost": 350,
+            "mortgage": 175,
+            "rent_site": 35,
+            "rent_h1": 175,
+            "rent_h2": 500,
+            "rent_h3": 1100,
+            "rent_h4": 1300,
+            "rent_hotel": 1500,
+            "house_cost": 200,
+            "hotel_cost": 200
+        },
+        {
+            "name": "Mayfair",
+            "cost": 400,
+            "mortgage": 200,
+            "rent_site": 50,
+            "rent_h1": 200,
+            "rent_h2": 600,
+            "rent_h3": 1400,
+            "rent_h4": 1700,
+            "rent_hotel": 2000,
+            "house_cost": 200,
+            "hotel_cost": 200
+        }
+    ]
+}
